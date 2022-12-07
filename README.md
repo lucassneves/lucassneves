@@ -58,9 +58,5 @@
 
 <hr style="border:2px solid gray">
 
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-
-![snake gif](https://github.com/lucassneves/lucassneves/blob/output/github-contribution-grid-snake.svg)
-
 ### Thank you for visiting my profile 🤓
 ### Feel free to fork and 🌟 any of my repositories!!
