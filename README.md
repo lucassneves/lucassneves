@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on [ScapeRoom game](https://github.com/lucassneves/Projeto-Escape-INF) with other students/friends
 
 - 🎯 I’m currently focusing on **Backend Skills** and learning **Web Development**
+
+- 👀 I'm currently working on a [Mgol-C Compiler](https://github.com/lucassneves?tab=repositories) with another friend
   
 - 🤔 I’m currently open for **a new job opportunity**, <a href="https://drive.google.com/file/d/18tCwn9wzpBwnxPmxBLc79HNA4wbb6n1h/view?usp=sharing">LINK TO MY RESUME</a>.
   
