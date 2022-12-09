@@ -7,7 +7,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucassneves&label=Profile%20views&color=0e75b6&style=flat" alt="lucassneves" /> </p>  
   
-- 🔭 I’m currently working on [ScapeRoom game](https://github.com/lucassneves/Projeto-Escape-INF) with other students
+- 🔭 I’m currently working on [ScapeRoom game](https://github.com/lucassneves/Projeto-Escape-INF) with others students
 
 - 🎃 I'm currently working on a [Mgol-C Compiler](https://github.com/lucassneves?tab=repositories) with another friend
 
