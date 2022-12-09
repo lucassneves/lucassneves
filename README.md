@@ -1,7 +1,7 @@
 <h1 align="center">Hey ✌, I'm Lucas de Sousa Neves</h1>  
 <h3 align="center">A Computer Science Undergraduate Student and Passionate Low-Level Developer.</h3>  
 
-<img align="right" alt="coding" width="350" height="350" src="https://media1.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif?cid=790b7611031ca5183db69a73a42cdbdf71e676a9fda4fa10&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="200" height="200" src="https://media1.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif?cid=790b7611031ca5183db69a73a42cdbdf71e676a9fda4fa10&rid=giphy.gif&ct=g">
 
 
   
