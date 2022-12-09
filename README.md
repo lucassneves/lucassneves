@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas de Sousa Neves</h1>  
+<h1 align="center">Hey ✌, I'm Lucas de Sousa Neves</h1>  
 <h3 align="center">A Computer Science Undergraduate Student and Passionate Low-Level Developer.</h3>  
 
 <img align="right" alt="coding" width="350" height="350" src="https://media1.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif?cid=790b7611031ca5183db69a73a42cdbdf71e676a9fda4fa10&rid=giphy.gif&ct=g">
@@ -9,11 +9,11 @@
   
 - 🔭 I’m currently working on [ScapeRoom game](https://github.com/lucassneves/Projeto-Escape-INF) with other students/friends
 
-- 👀 I'm currently working on a [Mgol-C Compiler](https://github.com/lucassneves?tab=repositories) with another friend
+- 🎃 I'm currently working on a [Mgol-C Compiler](https://github.com/lucassneves?tab=repositories) with another friend
 
 - 🎯 I’m currently focusing on **Backend Skills** and learning **Web Development**
   
-- 🤔 I’m currently open for **a new job opportunity**, <a href="https://drive.google.com/file/d/18tCwn9wzpBwnxPmxBLc79HNA4wbb6n1h/view?usp=sharing">LINK TO MY RESUME</a>.
+- 👀 I’m currently open for **a new job opportunity**, <a href="https://drive.google.com/file/d/18tCwn9wzpBwnxPmxBLc79HNA4wbb6n1h/view?usp=sharing">LINK TO MY RESUME</a>.
   
 - 📫 How to reach me **lucass.neves17@gmail.com**  
   
