@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas de Sousa Neves</h1>  
 <h3 align="center">A Computer Science Undergraduate Student and Passionate Low-Level Developer.</h3>  
 
-<img align="right" alt="coding" width="350" src="[https://giphy.com/embed/ES4Vcv8zWfIt2](https://media4.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif?cid=ecf05e47iabxkts23t9rrru76l9odtl6vl14nqjyrpw7nkzl&rid=giphy.gif&ct=g)">
+<img align="right" alt="coding" width="350" src="[https://giphy.com/embed/ES4Vcv8zWfIt2](https://media4.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif?cid=ecf05e47iabxkts23t9rrru76l9odtl6vl14nqjyrpw7nkzl&rid=giphy.gif&ct=g">
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucassneves&label=Profile%20views&color=0e75b6&style=flat" alt="lucassneves" /> </p>  
