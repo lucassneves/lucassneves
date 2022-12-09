@@ -62,5 +62,5 @@
 
 <hr style="border:2px solid gray">
 
-### Thank you for visiting my profile 🤓
+### Thank you for visiting my profile 😎
 ### Feel free to fork and 🌟 any of my repositories!!
