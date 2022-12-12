@@ -9,7 +9,7 @@
   
 - 🔭 I’m currently working on [ScapeRoom game](https://github.com/lucassneves/Projeto-Escape-INF) with others students
 
-- 🎃 I'm currently working on a [Mgol-C Compiler](https://github.com/lucassneves?tab=repositories) with another friend
+- 🎃 I'm currently working on a [Mgol-C Compiler](https://github.com/rodrigo-moreira-dev/AnalisadorLexico) with another friend
 
 - 🎯 I’m currently focusing on **Backend Skills** and learning **Web Development**
   
