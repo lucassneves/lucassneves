@@ -13,7 +13,7 @@
 
 - 🎯 I’m currently focusing on **Backend Skills** and learning **Web Development**
   
-- 👀 I’m currently open for **a new job opportunity**, <a href="https://drive.google.com/file/d/18tCwn9wzpBwnxPmxBLc79HNA4wbb6n1h/view?usp=sharing">LINK TO MY RESUME</a>.
+- 👀 I’m currently open for **a new job opportunity**, <a href="https://drive.google.com/file/d/1IoOxVZVrbZ8wuMjomzMkfCY95S9Gbbqu/view?usp=sharing">LINK TO MY RESUME</a>.
   
 - 📫 How to reach me **lucass.neves17@gmail.com**  
   
