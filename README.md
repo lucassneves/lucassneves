@@ -44,11 +44,11 @@
 </p>
 <br> -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/lucassneves?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=lucassneves&theme=dracula&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@lucassneves's github-readme-stats"/></a>
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassneves&layout=compact&theme=dracula&hide_border=true"
 <a href="https://github.com/lucassneves?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=lucassneves&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@lucassneves's github-readme-streak-stats"/></a>
-</p>
+</p> -->
 
 <!-- <p align="center">
 <a href="https://github.com/lucassneves">
